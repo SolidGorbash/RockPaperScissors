@@ -118,7 +118,7 @@ def who_wins(user_choice, computer_choice):
     print("The strength of your oppent matches yours. It's a draw!\n")
   else:
     print("\nYou chose {}. Your opponent chose {}".format(user_choice, computer_choice['draws']))
-    print("Your oppenent is awesome. You Lose!\n")  
+    print("Your opponent is awesome. You Lose!\n")  
   
   print("*************************************************************\n" +
         "[-> Type NEW to begin a new match                           ]\n" +
