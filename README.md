@@ -2,7 +2,7 @@ RockPaperScissors
 =================
 
 Simple RockPaperScissors game with little adds made with python
-=================
+
 
 You can play in thre different modes:
 
