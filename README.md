@@ -4,7 +4,7 @@ RockPaperScissors
 Simple RockPaperScissors game with little adds made with python
 
 
-You can play in thre different modes:
+You can play in three different modes:
 
 1 - Play the classic Rock Paper & Scisstos game,
 
